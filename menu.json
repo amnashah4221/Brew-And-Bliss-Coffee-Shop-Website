@@ -1,0 +1,117 @@
+[
+    {
+      "image": "capuccino.jpg",
+      "alt": "Cappuccino",
+      "price": 4.0,
+      "description": "Rich espresso, creamy foam"
+    },
+    {
+      "image": "latte.jpg",
+      "alt": "Latte",
+      "price": 4.5,
+      "description": "Smooth espresso with milk"
+    },
+    {
+      "image": "cold brew.jpg",
+      "alt": "Cold Brew",
+      "price": 4.5,
+      "description": "Slow-steeped, refreshing coffee"
+    },
+    {
+      "image": "americano.jpg",
+      "alt": "Americano",
+      "price": 3.5,
+      "description": "Espresso with hot water"
+    },
+    {
+      "image": "chai latte.jpg",
+      "alt": "Chai Latte",
+      "price": 4.5,
+      "description": "Spiced tea with milk"
+    },
+    {
+      "image": "matcha latte.jpg",
+      "alt": "Matcha Latte",
+      "price": 5.0,
+      "description": "Japanese green tea blend"
+    },
+    {
+      "image": "iced tea.jpg",
+      "alt": "Iced Tea",
+      "price": 3.5,
+      "description": "Chilled black tea refreshment"
+    },
+    {
+      "image": "classic lemonade.jpg",
+      "alt": "Classic Lemonade",
+      "price": 3.0,
+      "description": "Fresh lemon, chilled drink"
+    },
+    {
+      "image": "chocolate croissant.jpg",
+      "alt": "Chocolate Croissant",
+      "price": 3.0,
+      "description": "Flaky pastry, rich chocolate"
+    },
+    {
+      "image": "blueberry muffin.jpg",
+      "alt": "Blueberry Muffin",
+      "price": 3.0,
+      "description": "Soft muffin with berries"
+    },
+    {
+      "image": "cinnamon roll.jpg",
+      "alt": "Cinnamon Roll",
+      "price": 3.5,
+      "description": "Sweet swirl, cinnamon glaze"
+    },
+    {
+      "image": "danish pastry.jpg",
+      "alt": "Danish Pastry",
+      "price": 3.2,
+      "description": "Buttery pastry, fruity topping"
+    },
+    {
+      "image": "chicken pastry panini.jpg",
+      "alt": "Chicken Pastry Panini",
+      "price": 5.5,
+      "description": "Grilled panini with chicken"
+    },
+    {
+      "image": "egg mayo sandwich.jpg",
+      "alt": "Egg Mayo Sandwich",
+      "price": 4.0,
+      "description": "Creamy egg on soft bread"
+    },
+    {
+      "image": "cream cheese quiche.jpg",
+      "alt": "Cream Cheese Quiche",
+      "price": 4.5,
+      "description": "Savory tart with cream cheese"
+    },
+    {
+      "image": "spinach & Cheese Quiche.jpg",
+      "alt": "Spinach & Cheese Quiche",
+      "price": 4.8,
+      "description": "Wholesome spinach, melted cheese"
+    },
+    {
+      "image": "classic cheesecake.jpg",
+      "alt": "Classic Cheesecake",
+      "price": 5.0,
+      "description": "Creamy, rich cheesecake slice"
+    },
+    {
+      "image": "red velvet cake.jpg",
+      "alt": "Red Velvet Cake",
+      "price": 5.5,
+      "description": "Moist cake with cream cheese"
+    },
+    {
+      "image": "tiramis.jpg",
+      "alt": "Tiramisu",
+      "price": 5.5,
+      "description": "Coffee-soaked layers, mascarpone"
+    }
+  ]
+  

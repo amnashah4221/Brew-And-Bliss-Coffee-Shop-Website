@@ -1,0 +1,79 @@
+[
+    {
+      "image": "capuccino.jpg",
+      "alt": "capuccino"
+    },
+    {
+        "image": "latte.jpg",
+        "alt": "latte"
+    },
+    {
+        "image": "cold brew.jpg",
+        "alt": "cold brew"
+    },
+    {
+        "image": "americano.jpg",
+        "alt": "americano"
+    },
+    {
+        "image": "chai latte.jpg",
+        "alt": "chai latte"
+    },
+    {
+        "image": "matcha latte.jpg",
+        "alt": "matcha latte"
+    },
+    {
+        "image": "iced tea.jpg",
+        "alt": "iced tea"
+    },
+    {
+        "image": "classic lemonade.jpg",
+        "alt": "classic lemonade"
+    },
+    {
+        "image": "chocolate croissant.jpg",
+        "alt": "chocolate croissant"
+    },
+    {
+        "image": "blueberry muffin.jpg",
+        "alt": "blueberry muffin"
+    },
+    {
+        "image": "cinnamon roll.jpg",
+        "alt": "cinnamon roll"
+    },
+    {
+        "image": "danish pastry.jpg",
+        "alt": "danish pastry"
+    },
+    {
+        "image": "chicken pastry panini.jpg",
+        "alt": "chicken pastry panini"
+    },
+    {
+        "image": "egg mayo sandwich.jpg",
+        "alt": "egg mayo sandwich"
+    },
+    {
+        "image": "cream cheese quiche.jpg",
+        "alt": "cream cheese quiche"
+    },
+    {
+        "image": "spinach & Cheese Quiche.jpg",
+        "alt": "spinach & Cheese Quiche"
+    },
+    {
+        "image": "classic cheesecake.jpg",
+        "alt": "classic cheesecake"
+    },
+    {
+        "image": "red velvet cake.jpg",
+        "alt": "red velvet cake"
+    },
+    {
+        "image": "tiramis.jpg",
+        "alt": "tiramis"
+    }
+]
+  

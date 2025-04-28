@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brew and Bliss | Coffee Shop</title>
+    <meta name="description" content="Brew and Bliss - Your cozy coffee corner. Explore our menu of delightful brews, pastries, and cozy vibes.">
+    <meta name="keywords" content="coffee, cafe, Brew and Bliss, menu, pastries, Lahore coffee shop">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    
+    <header>
+        <a href="#Home"><img src="BrewandBlisslogo.png" id="logo-img" alt="Brew and Bliss Logo"></a>
+        <nav>
+            <a href="#Home">Home</a>
+            <a href="#Aboutus">About</a>
+            <a href="#Menu">Menu</a>
+            <a href="#Testimonials">Testimonials</a>
+            <a href="#gallery">Gallery</a>
+            <a href="#Contactus">Contact</a>
+        </nav>
+    </header>
+
+    <section id="Home">
+        <div class="left-home">
+            <h1 id="slogan">Brewing Joy</h1>
+            <h1 id="sub-head">Where Coffee Meets Joy!</h1>
+            <p class="tagline">Welcome to Brew and Bliss  ☕️. Step into the aroma of something special — where flavor meets feeling.</p>
+            <div class="home-buttons">
+                <button onclick="location.href='#Menu'">Order Now</button>
+                <button onclick="location.href='#Contactus'">Contact Us</button>
+            </div>
+        </div>
+
+        <div class="right-home">
+            <img src="home-left.jpg" id="home-pic" alt="homepic">
+        </div>
+    </section>
+
+    <section id="Aboutus">
+        <div class="left-about">
+            <img src="aboutus.jpg" id="about-pic" alt="aboutpic">
+        </div>
+
+        <div class="right-about">
+            <h1 id="abt">ABOUT US</h1>
+            <p id="about-des">
+                At <strong>Brew & Bliss</strong>, coffee is more than a drink—it's a ritual, a moment of peace, a daily joy.  
+                Born from a love for rich aromas and soulful blends, we serve handcrafted brews made from ethically sourced beans and warm hearts.  
+                Whether you're rushing to work or unwinding with friends, our space is your cozy caffeine haven.
+            </p>
+            <div class="media-links">
+               <a href="#"><img src="whatsapp.png" alt="whatsapp"></a>
+               <a href="#"><img src="instagram.png" alt="instagram"></a>
+               <a href="#"><img src="facebook.png" alt="facebook"></a>
+               <a href="#"><img src="linkedin.png" alt="linkedin"></a>
+               <a href="#"><img src="youtube.png"  alt="youtube"></a>
+            </div>
+        </div>
+    </section>
+
+    <section id="Menu">
+        <h1>OUR MENU</h1>
+        <div id="menuitem"></div>
+    </section>
+
+    <section id="Testimonials">
+        <h1>TESTIMONIALS</h1>
+        <div class="test-con">
+            <div class="test-slide">
+                <img src="cust-01.jpg" alt="customer-01">
+                <p>"This product is amazing! It exceeded my expectations."</p>
+                <h3>- Emily Roberts</h3>
+            </div>
+            <div class="test-slide">
+                <img src="cust-02.jpg" alt="customer-02">
+                <p>"Fantastic experience, I’ll definitely come back!"</p>
+                <h3>- Mark Davis</h3>
+            </div>
+            <div class="test-slide">
+                <img src="cust-03.jpg" alt="customer-03">
+                <p>"Top-notch quality and exceptional customer service."</p>
+                <h3>- Sarah Lee</h3>
+            </div>
+        <div class="test-slide">
+            <img src="cust-04.jpg" alt="customer-04">
+            <p>"An unforgettable experience, I’ll recommend this to everyone."</p>
+            <h3>- David Miller</h3>
+          </div>
+          <div class="test-slide">
+            <img src="cust-05.jpg" alt="customer-05">
+            <p>"Such a wonderful experience. They really go above and beyond!"</p>
+            <h3>- Jessica Williams</h3>
+          </div>
+          <div class="test-slide">
+            <img src="cust-06.jpg" alt="customer-06">
+            <p>"The service was perfect, and I’ll definitely be back again!"</p>
+            <h3>- Brian Carter</h3>
+          </div>
+        </div>
+    </section>
+
+    <section id="gallery">
+        <h1>GALLERY</h1>
+        <div id="menugallery" class="gallery-grid"></div>
+    </section>
+
+    <section id="Contactus">
+        <h1>CONTACT US</h1>
+        <div class="container-contact">
+        <div class="left-contact">
+            <p>📍   Lahore, Pakistan</p>
+            <p>📧  info@brewandbliss.com</p>
+            <p>📞  (123) 456-78909</p>
+            <p>⏰  Monday - Friday 9:00 AM - 5:00 PM</p>
+            <p>⏰  Saturday 10:00 AM - 3:00 PM</p>
+            <p>⏰  Sunday Closed</p>
+            <p>🌐  www.brewandbliss.com</p>
+        </div>
+
+        <div class="right-contact">
+            <form method="post">
+                <input type="text" id="yourname" placeholder="Your Name" name="yourname" required>
+                <input type="email" id="youremail" placeholder="Your Email" name="email" required>
+                <textarea  id="message" placeholder="Your Message" name="message" ></textarea>
+                <button type="submit" id="submit-btn">Submit</button>
+            </form>
+        </div>
+    </div>
+    </section>
+
+    <footer>
+    <div class="footer-bottom">
+        <p>&copy; 2025 Brew & Bliss. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="script.js">
+       
+    </script>
+</body>
+</html>
